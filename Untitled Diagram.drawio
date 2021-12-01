@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-01T20:10:53.048Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="QlPG0cd9rnfqaW-hFZfg" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-01T21:30:25.901Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="MNxOrYUtoKSvOTHPEiVX" version="15.8.8" type="github">
   <diagram name="Page-1" id="19d8dcba-68ad-dc05-1034-9cf7b2a963f6">
-    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4432" dy="1700" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -183,6 +183,238 @@
             <mxPoint x="1765" y="335" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1820" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TMkLgcARQh1WuAnc6BuK-30" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Teorias De Probabilidad&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="903" y="896" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TMkLgcARQh1WuAnc6BuK-31" value="&lt;span style=&quot;font-size: 24px ; font-weight: normal&quot;&gt;Teoría Bayesiana&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="203" y="1006" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TMkLgcARQh1WuAnc6BuK-32" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Fue un matemático britanico, quien realizo la obra &quot;Teorema De Bayes&quot;, la cual es una fórmula para determinar la probabilidad condicional de los eventos.&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="93" y="1116" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TMkLgcARQh1WuAnc6BuK-35" value="&lt;font style=&quot;font-size: 14px&quot;&gt;P(AlB) =&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;P(AnB) / P(B)&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="373" y="1116" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TMkLgcARQh1WuAnc6BuK-36" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Se calcula la probabilidad de que al tirar un dado salga 3, si se sabe que ha salido un número par.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; P(3 l Impar)=P(3 n Impar) P(Impar) P(Impar)=3/6=1/2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;P(3 n Impar)= 1/6&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; P(3 l Impar)=(1/6)/(1/2)=1/3&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="163" y="1446" width="270" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="TMkLgcARQh1WuAnc6BuK-37" value="&lt;font style=&quot;font-size: 14px&quot;&gt;P(AlB) =&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;P(AnB) / P(B)&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="248" y="1341" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TMkLgcARQh1WuAnc6BuK-38" value="" style="edgeStyle=elbowEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;endArrow=block;endFill=1;strokeColor=#4D4D4D;strokeWidth=2;fontFamily=Verdana;fontSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.636;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TMkLgcARQh1WuAnc6BuK-31" target="TMkLgcARQh1WuAnc6BuK-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="293" y="1106" as="sourcePoint" />
+            <mxPoint x="443" y="1106" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="443" y="1076" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TMkLgcARQh1WuAnc6BuK-39" value="" style="edgeStyle=elbowEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;endArrow=block;endFill=1;strokeColor=#4D4D4D;strokeWidth=2;fontFamily=Verdana;fontSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TMkLgcARQh1WuAnc6BuK-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="172.5" y="1056" as="sourcePoint" />
+            <mxPoint x="172.5" y="1116" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="173" y="1076" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TMkLgcARQh1WuAnc6BuK-40" value="" style="edgeStyle=elbowEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;endArrow=block;endFill=1;strokeColor=#4D4D4D;strokeWidth=2;fontFamily=Verdana;fontSize=10;exitX=0.444;exitY=1.013;exitDx=0;exitDy=0;entryX=0.636;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="TMkLgcARQh1WuAnc6BuK-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="163" y="1292.98" as="sourcePoint" />
+            <mxPoint x="302.96000000000004" y="1341" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="303" y="1302.98" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TMkLgcARQh1WuAnc6BuK-41" value="" style="edgeStyle=elbowEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;endArrow=block;endFill=1;strokeColor=#4D4D4D;strokeWidth=2;fontFamily=Verdana;fontSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.636;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TMkLgcARQh1WuAnc6BuK-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="163" y="1292.98" as="sourcePoint" />
+            <mxPoint x="302.96000000000004" y="1341" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="303" y="1236" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TMkLgcARQh1WuAnc6BuK-42" value="" style="edgeStyle=elbowEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;endArrow=block;endFill=1;strokeColor=#4D4D4D;strokeWidth=2;fontFamily=Verdana;fontSize=10;entryX=0.636;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="303" y="1401" as="sourcePoint" />
+            <mxPoint x="302.96000000000004" y="1449.02" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="303" y="1411" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TMkLgcARQh1WuAnc6BuK-43" value="&lt;span style=&quot;font-size: 24px ; font-weight: normal&quot;&gt;Desviación Estándar Y Varianza&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1603" y="1006" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TMkLgcARQh1WuAnc6BuK-44" value="&lt;span style=&quot;font-size: 24px ; font-weight: normal&quot;&gt;Media Aritmética&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1133" y="1006" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TMkLgcARQh1WuAnc6BuK-45" value="&lt;span style=&quot;font-size: 24px ; font-weight: 400&quot;&gt;Variables Aleatorias&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="653" y="1006" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TMkLgcARQh1WuAnc6BuK-46" value="&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Se analizan como resultado de un experimento específico&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="653" y="1126" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TMkLgcARQh1WuAnc6BuK-47" value="" style="edgeStyle=elbowEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;endArrow=block;endFill=1;strokeColor=#4D4D4D;strokeWidth=2;fontFamily=Verdana;fontSize=10;exitX=0.465;exitY=1.017;exitDx=0;exitDy=0;entryX=0.636;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="TMkLgcARQh1WuAnc6BuK-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="613" y="1077.98" as="sourcePoint" />
+            <mxPoint x="752.96" y="1126" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="753" y="1087.98" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TMkLgcARQh1WuAnc6BuK-49" value="&lt;span style=&quot;font-size: 14px ; font-weight: 400&quot;&gt;Suelen tomar valores reales e intenta describir de manera numérica los resultados de un evento aleatorio.&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="653" y="1246" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TMkLgcARQh1WuAnc6BuK-52" value="" style="edgeStyle=elbowEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;endArrow=block;endFill=1;strokeColor=#4D4D4D;strokeWidth=2;fontFamily=Verdana;fontSize=10;entryX=0.636;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="745" y="1186" as="sourcePoint" />
+            <mxPoint x="744.96" y="1246" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="745" y="1207.98" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TMkLgcARQh1WuAnc6BuK-53" value="&lt;span style=&quot;font-size: 14px ; font-weight: 400&quot;&gt;Un experimento aleatorio consiste en lanzar dos dados al aire.&lt;br&gt;Una variable&amp;nbsp;aleatoria podría ser la suma de los valores obtenidos, la cantidad de pares, la cantidad de impares, etc...&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="653" y="1396" width="200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="TMkLgcARQh1WuAnc6BuK-54" value="" style="edgeStyle=elbowEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;endArrow=block;endFill=1;strokeColor=#4D4D4D;strokeWidth=2;fontFamily=Verdana;fontSize=10;entryX=0.636;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="752.54" y="1336" as="sourcePoint" />
+            <mxPoint x="752.5" y="1396" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="752.54" y="1357.98" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TMkLgcARQh1WuAnc6BuK-55" value="&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;La esperanza matemática es el número que expresa el valor medio del fenómeno que representa a la variable&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1133" y="1126" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TMkLgcARQh1WuAnc6BuK-56" value="" style="edgeStyle=elbowEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;endArrow=block;endFill=1;strokeColor=#4D4D4D;strokeWidth=2;fontFamily=Verdana;fontSize=10;entryX=0.636;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1232.54" y="1066" as="sourcePoint" />
+            <mxPoint x="1232.5" y="1126" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1232.54" y="1087.98" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TMkLgcARQh1WuAnc6BuK-57" value="&lt;blockquote&gt;&lt;span style=&quot;color: rgb(98 , 103 , 110) ; font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&amp;nbsp;Es un valor que se determina tomando todos los resultados potenciales, multiplicando cada uno por la probabilidad de que ocurra y sumándolos&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1113" y="1246" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="TMkLgcARQh1WuAnc6BuK-58" value="" style="edgeStyle=elbowEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;endArrow=block;endFill=1;strokeColor=#4D4D4D;strokeWidth=2;fontFamily=Verdana;fontSize=10;entryX=0.636;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1232.54" y="1186" as="sourcePoint" />
+            <mxPoint x="1232.5" y="1246" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1232.54" y="1207.98" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Enlace&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" link="http://www4.ujaen.es/~svilchez/metodos/Tema4_VariableAleatoria.pdf" id="TMkLgcARQh1WuAnc6BuK-59">
+          <mxCell style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="1143" y="1416" width="180" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="TMkLgcARQh1WuAnc6BuK-60" value="" style="edgeStyle=elbowEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;endArrow=block;endFill=1;strokeColor=#4D4D4D;strokeWidth=2;fontFamily=Verdana;fontSize=10;entryX=0.636;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1233.04" y="1356" as="sourcePoint" />
+            <mxPoint x="1233" y="1416" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1233.04" y="1377.98" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TMkLgcARQh1WuAnc6BuK-61" value="&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;La varianza mide que tan dispersos están los datos alrededor de la media. La varianza se puede calcular como la desviación estándar elevada al cuadrado.&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1473" y="1136" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TMkLgcARQh1WuAnc6BuK-62" value="&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;La desviación estándar es la medida de cuanto se separan los datos. Se puede calcular hallando la raíz cuadrada de la varianza&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1788" y="1136" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TMkLgcARQh1WuAnc6BuK-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="TMkLgcARQh1WuAnc6BuK-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1723" y="1276" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TMkLgcARQh1WuAnc6BuK-64" value="&lt;font style=&quot;font-weight: normal ; font-size: 12px&quot;&gt;Se analizan los resultados de una encuesta reciente que clasifica un producto de 1 a 10. Los resultados de la encuesta son:&lt;br&gt;&lt;/font&gt;1&lt;span style=&quot;font-weight: normal&quot;&gt;. Las puntuaciones son: 9,7,10,8,9,7,8,9. Obteniendo una media de: 8.4&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;2&lt;span style=&quot;font-weight: normal&quot;&gt;. Se le resta la media a cada número y se eleva al cuadrado resultando: 0.36,1.96,2.56,0.16,0.36,1.96,0.16,0.36&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;3&lt;span style=&quot;font-weight: normal&quot;&gt;. Se debe restar uno del número de valores para promediar cuadrados y la varianza resulta: 7.88&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;4&lt;span style=&quot;font-weight: normal&quot;&gt;. Se saca raíz cuadrada a la varianza y se obtiene de como desviación estándar: 2.8&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1553" y="1276" width="340" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="TMkLgcARQh1WuAnc6BuK-65" value="" style="edgeStyle=elbowEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;endArrow=block;endFill=1;strokeColor=#4D4D4D;strokeWidth=2;fontFamily=Verdana;fontSize=10;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="TMkLgcARQh1WuAnc6BuK-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1560.04" y="1226" as="sourcePoint" />
+            <mxPoint x="1560" y="1286" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1723" y="1246" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TMkLgcARQh1WuAnc6BuK-66" value="" style="edgeStyle=elbowEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;endArrow=block;endFill=1;strokeColor=#4D4D4D;strokeWidth=2;fontFamily=Verdana;fontSize=10;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1887.54" y="1226" as="sourcePoint" />
+            <mxPoint x="1723" y="1276" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1723" y="1226" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TMkLgcARQh1WuAnc6BuK-68" value="" style="edgeStyle=elbowEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;endArrow=block;endFill=1;strokeColor=#4D4D4D;strokeWidth=2;fontFamily=Verdana;fontSize=10;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="TMkLgcARQh1WuAnc6BuK-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1727.54" y="1066" as="sourcePoint" />
+            <mxPoint x="1727.5" y="1126" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1573" y="1106" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TMkLgcARQh1WuAnc6BuK-69" value="" style="edgeStyle=elbowEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;endArrow=block;endFill=1;strokeColor=#4D4D4D;strokeWidth=2;fontFamily=Verdana;fontSize=10;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1727.54" y="1066" as="sourcePoint" />
+            <mxPoint x="1899" y="1136" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1899" y="1066" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TMkLgcARQh1WuAnc6BuK-70" value="" style="edgeStyle=elbowEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;endArrow=block;endFill=1;strokeColor=#4D4D4D;strokeWidth=2;fontFamily=Verdana;fontSize=10;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="TMkLgcARQh1WuAnc6BuK-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="993" y="946" as="sourcePoint" />
+            <mxPoint x="1233" y="996" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1233" y="976" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TMkLgcARQh1WuAnc6BuK-73" value="" style="edgeStyle=elbowEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;endArrow=block;endFill=1;strokeColor=#4D4D4D;strokeWidth=2;fontFamily=Verdana;fontSize=10;" edge="1" parent="1" target="TMkLgcARQh1WuAnc6BuK-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1003" y="946" as="sourcePoint" />
+            <mxPoint x="1243" y="1016" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1733" y="986" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TMkLgcARQh1WuAnc6BuK-74" value="" style="edgeStyle=elbowEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;endArrow=block;endFill=1;strokeColor=#4D4D4D;strokeWidth=2;fontFamily=Verdana;fontSize=10;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="TMkLgcARQh1WuAnc6BuK-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="998" y="946" as="sourcePoint" />
+            <mxPoint x="1238" y="1006" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="303" y="975" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TMkLgcARQh1WuAnc6BuK-75" value="" style="edgeStyle=elbowEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;endArrow=block;endFill=1;strokeColor=#4D4D4D;strokeWidth=2;fontFamily=Verdana;fontSize=10;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="TMkLgcARQh1WuAnc6BuK-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="993" y="946" as="sourcePoint" />
+            <mxPoint x="1263" y="1036" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="753" y="970" />
             </Array>
           </mxGeometry>
         </mxCell>
